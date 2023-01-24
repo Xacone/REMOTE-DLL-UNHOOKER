@@ -4,8 +4,6 @@
 ```
 i686-w64-mingw32-g++-win32 unhooktest.cpp -o unhookshelltest.exe -lws2_32 -lpsapi -s -ffunction-sections -fdata-sections -Wno-write-strings -fno-exceptions -fmerge-all-constants -static-libstdc++ -static-libgcc -fpermissive && cp unhookshelltest.exe /mnt/c/<WINDOWS TARGET DIR>
 ```
-<br><br>
-
 <img src="https://i.ibb.co/mTMDjVv/image.png">
 
-En construction..
+En construction...
